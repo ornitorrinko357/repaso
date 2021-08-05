@@ -1,0 +1,27 @@
+body {
+  background-color:honeydew;
+}
+h1 {
+  color: red;
+}
+p {
+  color: red;
+  border: 2px solid powderblue;
+  padding: 30px;
+  margin-top: 50px;
+}
+a {
+  background-color: #f44336;
+  color: white;
+  padding: 15px 25px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+}
+a:visited{
+  background-color: salmon;
+}
+
+a:hover, a:active {
+  background-color: red;
+}
